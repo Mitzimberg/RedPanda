@@ -1,4 +1,15 @@
 /* Place CSS styles here */
 body{
     background-image: url(../img/nationalpark.jpg);
+    font-family: "Inconsolata", system-ui;
+    font-weight: 300;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: "Karla", system-ui;
+    font-weight: 900;
 }
